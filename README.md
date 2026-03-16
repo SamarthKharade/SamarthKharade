@@ -6,13 +6,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/samarth-kharade-2a482b241/" target="_blank">
+  <a href="https://www.linkedin.com/in/samarth-kharade" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-samarth--kharade-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/SamarthKharade" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-SamarthKharade-181717?style=flat&logo=github&logoColor=white"/>
   </a>
-  <a href="/cdn-cgi/l/email-protection#046f6c65766560617765696576706c3230446369656d682a676b69">
+  <a href="mailto:kharadesamarth64@gmail.com">
     <img src="https://img.shields.io/badge/Email-kharadesamarth64@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=SamarthKharade&style=flat&color=00b8a9" alt="Profile Views"/>
