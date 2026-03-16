@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/samarth-kharade" target="_blank">
+  <a href="https://www.linkedin.com/in/samarth-kharade-2a482b241/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-samarth--kharade-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/SamarthKharade" target="_blank">
@@ -28,7 +28,7 @@
 - 🌱 Skilled in **Python, Flask, REST APIs, MongoDB Atlas, and Scikit-learn**
 - 🏆 **Runner Up — Tech Zephyr** Project Exhibition | Cash Prize & Trophy
 - 📍 Pimpri, Pune, Maharashtra
-- 📫 **<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="442f2c25362520213725292536302c7270042329252d286a272b29">[email&#160;protected]</a>** | **+91-9307953702**
+- 📫 **<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="442f2c25362520213725292536302c7270042329252d286a272b29"</a>**kharadesamarth64@gmail.com | **+91-9307953702**
 
 ---
 
