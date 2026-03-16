@@ -28,7 +28,7 @@
 - 🌱 Skilled in **Python, Flask, REST APIs, MongoDB Atlas, and Scikit-learn**
 - 🏆 **Runner Up — Tech Zephyr** Project Exhibition | Cash Prize & Trophy
 - 📍 Pimpri, Pune, Maharashtra
-- 📫 **<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="442f2c25362520213725292536302c7270042329252d286a272b29"</a>**kharadesamarth64@gmail.com | **+91-9307953702**
+- 📫 **kharadesamarth64@gmail.com | **+91-9307953702**
 
 ---
 
