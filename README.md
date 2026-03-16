@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Samarth Kharade 👋</h1>
 
 <p align="center">
-  <b>Full Stack Developer · Python Enthusiast · Final Year B.E. Computer Engineering Student</b><br/>
+  <b>Full Stack Developer · AI/ML Enthusiast · Final Year B.E. Computer Engineering Student</b><br/>
   <i>Building clean, scalable web applications — open to full-time opportunities.</i>
 </p>
 
@@ -38,12 +38,18 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![J2SE](https://img.shields.io/badge/J2SE-007396?style=flat&logo=java&logoColor=white)
+![J2EE](https://img.shields.io/badge/J2EE-007396?style=flat&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 **Frameworks & Libraries**
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
 **Databases**
@@ -66,9 +72,42 @@
 ### 💸 [Expense Tracker](https://github.com/SamarthKharade/Expense-Tracker)
 > A full-stack expense management web application with data analytics.
 
-- Built with **Python, Flask, MongoDB Atlas, NumPy, JavaScript**
-- Features REST API integration and real-time data visualization
+- Built with **Python, Flask, MongoDB Atlas, NumPy, REST API, JavaScript**
+- Features real-time data visualization and expense categorization
 - Deployed on **Vercel** (frontend) & **Render.com** (backend)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+---
+
+### 🏦 [Secure Bank Application](https://github.com/SamarthKharade/Secure-Bank-Application)
+> A secure banking system with authentication and transaction management.
+
+- Built with **Java (J2SE / J2EE), MySQL** and secure authentication protocols
+- Features account management, fund transfers, and transaction history
+- Implements robust security practices for sensitive financial data
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![J2EE](https://img.shields.io/badge/J2EE-007396?style=flat&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+---
+
+### ✅ [Habit Tracker](https://github.com/SamarthKharade/Habit-Tracker)
+> A productivity app to build and track daily habits with progress analytics.
+
+- Built with **Python, Flask, Pandas, Matplotlib, MySQL**
+- Features daily habit logging, streaks, and visual progress charts
+- Clean dashboard with data-driven insights for habit improvement
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ---
 
