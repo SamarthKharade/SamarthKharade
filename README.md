@@ -12,7 +12,7 @@
   <a href="https://github.com/SamarthKharade" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-SamarthKharade-181717?style=flat&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:kharadesamarth64@gmail.com">
+  <a href="/cdn-cgi/l/email-protection#046f6c65766560617765696576706c3230446369656d682a676b69">
     <img src="https://img.shields.io/badge/Email-kharadesamarth64@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=SamarthKharade&style=flat&color=00b8a9" alt="Profile Views"/>
@@ -28,7 +28,7 @@
 - 🌱 Skilled in **Python, Flask, REST APIs, MongoDB Atlas, and Scikit-learn**
 - 🏆 **Runner Up — Tech Zephyr** Project Exhibition | Cash Prize & Trophy
 - 📍 Pimpri, Pune, Maharashtra
-- 📫 **kharadesamarth64@gmail.com** | **+91-9307953702**
+- 📫 **<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="442f2c25362520213725292536302c7270042329252d286a272b29">[email&#160;protected]</a>** | **+91-9307953702**
 
 ---
 
@@ -80,6 +80,30 @@
 ---
 
 ## 📂 Featured Projects
+
+### 💸 [Smart AI Expense Tracker](https://github.com/SamarthKharade/Expense-Tracker)
+> Full-stack personal finance app with ML-powered spending insights and predictions.
+
+- Track daily **income & expenses by category** with monthly budget limits
+- Interactive charts for visualizing **spending patterns** using Recharts
+- **ML-powered insights engine** using Z-score analysis to detect unusual spending
+- Compares monthly trends and **predicts end-of-month expenses** intelligently
+- Deployed on **Vercel** (frontend) & **Render.com** (backend) with **JWT** authentication
+
+![React](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-FF6384?style=flat&logo=react&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=flat&logo=mongodb&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat&logo=fastapi&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
+
+---
 
 ### 🤖 [AI Powered Habit Tracker](https://github.com/SamarthKharade/Habit-Tracker)
 > Full-stack habit tracking app with AI-driven personalized suggestions.
@@ -199,7 +223,4 @@
 
 <p align="center">
   <i>Open to full-time roles and exciting collaborations. Let's build something great together!</i><br/>
-  <a href="mailto:kharadesamarth64@gmail.com">📧 kharadesamarth64@gmail.com</a> &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/samarth-kharade">🔗 LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://github.com/SamarthKharade">💻 GitHub</a>
-</p>
+  <a href="/cdn-cgi/l/email-protection#d1bab9b0a3b0b5b4a2b0bcb0a3a5b9e7e5
