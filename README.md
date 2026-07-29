@@ -22,11 +22,12 @@
 
 ## 🚀 About Me
 
-- 🎓 Final year **B.E. Computer Engineering** student at Dr. D.Y. Patil Institute of Technology, Pune — **CGPA: 9.41 / 10**
+- 🎓 Final year **B.E. Computer Engineering** student at Dr. D.Y. Patil Institute of Technology, Pune — **CGPA: 9.45 / 10**
 - 💼 Former **Python Developer Intern** at Octanet Services Pvt. Ltd.
 - 🤖 Passionate about **ML/AI** — building intelligent, data-driven web applications
 - 🌱 Skilled in **Python, Flask, REST APIs, MongoDB Atlas, and Scikit-learn**
-- 🏆 **Runner Up — Tech Zephyr** Project Exhibition | Cash Prize & Trophy
+- 🏆 **Best Paper Award** — Avinya 2026 Conference, for *"Punya Yatra: Complete Pilgrimage Planner"* (out of 30+ submitted papers)
+- 🥈 **Runner Up — Tech Zephyr** Project Exhibition | Cash Prize & Trophy
 - 📍 Pimpri, Pune, Maharashtra
 - 📫 kharadesamarth64@gmail.com | **+91-9307953702**
 
@@ -137,36 +138,6 @@
 
 ---
 
-### 📈 [Student Performance Predictor](https://github.com/SamarthKharade/student_predictor)
-> ML model predicting student exam scores from attendance, marks & study hours.
-
-- **Linear Regression** model predicting exam scores based on key academic parameters
-- Deployed as full-stack Flask web app with **visual dashboards**
-- Illustrates each parameter's impact on student performance
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-
----
-
-### 🛕 [Punya Yatra: Complete Pilgrimage Planner](https://github.com/SamarthKharade/WT-Project-Punya-Yatra)
-> Comprehensive web platform for planning Maharashtra religious journeys.
-
-- Covers **temple visits, hotel bookings, restaurant reservations, and transport management**
-- Full frontend and backend development contribution
-- Team Size: 3
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-
----
-
 ### 🤝 [Seva Charitable Foundation System](https://github.com/SamarthKharade/SEProject/tree/main/Seva)
 > Desktop application for managing charitable donations and resource allocation.
 
@@ -182,6 +153,36 @@
 
 ---
 
+### 📈 [Student Performance Predictor](https://github.com/SamarthKharade/student_predictor)
+> ML model predicting student exam scores from attendance, marks & study hours.
+
+- **Linear Regression** model predicting exam scores based on key academic parameters
+- Deployed as full-stack Flask web app with **visual dashboards**
+- Illustrates each parameter's impact on student performance
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+---
+
+### 🛕 [Punya Yatra: Complete Pilgrimage Planner](https://github.com/SamarthKharade/WT-Project-Punya-Yatra)
+> Comprehensive web platform for planning Maharashtra religious journeys. **Best Paper Award — Avinya 2026 Conference.**
+
+- Covers **temple visits, hotel bookings, restaurant reservations, and transport management**
+- Full frontend and backend development contribution
+- Recognized with the **Best Paper Award** at Avinya 2026 Conference, out of 30+ submitted research papers
+- Team Size: 3
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+
+---
+
 ## 💼 Experience
 
 **Python Developer Intern** — *Octanet Services Pvt. Ltd.* | Jan 2025
@@ -194,7 +195,7 @@
 
 | Degree | Institution | Year | Score |
 |---|---|---|---|
-| B.E. Computer Engineering | Dr. D.Y. Patil Inst. of Technology, Pune | 2022 – 2026 | CGPA: 9.41 / 10 |
+| B.E. Computer Engineering | Dr. D.Y. Patil Inst. of Technology, Pune | 2022 – 2026 | CGPA: 9.45 / 10 |
 | Diploma – Computer Engineering | Govt. Polytechnic, Solapur | 2020 – 2023 | 89.60% |
 | SSC (10th Standard) | M.M. Shri Shahaji High School | 2020 | 92.00% |
 
@@ -202,6 +203,7 @@
 
 ## 🏆 Achievements & Certifications
 
+- 🏅 **Best Paper Award** — Avinya 2026 Conference, for *"Punya Yatra: Complete Pilgrimage Planner"* (out of 30+ submitted papers)
 - 🥈 **Runner Up — Tech Zephyr** | Project Exhibition Award with Cash Prize & Trophy
 - 👨‍💼 **Event Leader** | Managed 50+ student project displays, coordinated with faculty & industry judges
 - 📜 **Python for Data Science** Certification | Aggregate: 82 / 100
@@ -222,5 +224,5 @@
 ---
 
 <p align="center">
-  <i>Open to full-time roles and exciting collaborations. Let's build something great together!</i><br/>
-  <a href="/cdn-cgi/l/email-protection#d1bab9b0a3b0b5b4a2b0bcb0a3a5b9e7e5
+  <i>Open to full-time roles and exciting collaborations. Let's build something great together!</i>
+</p>
