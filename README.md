@@ -175,15 +175,11 @@
 - Recognized with the **Best Paper Award** at Avinya 2026 Conference, out of 30+ submitted research papers
 - Team Size: 3
 
+![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=flat&logo=react&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-
----
-
-## 💼 Experience
+![MongoDB](https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=flat&logo=mongodb&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/ML-FF6F00?style=flat&logo=scikit-learn&logoColor=white)
 
 **Python Developer Intern** — *Octanet Services Pvt. Ltd.* | Jan 2025
 - Built full-stack web applications using **Flask, HTML, CSS, JavaScript, and MySQL** with backend logic, REST APIs, and database management
