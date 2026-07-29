@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Full Stack Developer · ML/AI Enthusiast · Python & Flask</b><br/>
-  <i>Dedicated Computer Engineering student building AI-powered, data-driven applications — open to full-time opportunities.</i>
+  <i>Computer Engineering graduate building AI-powered, data-driven applications — open to full-time opportunities.</i>
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Final year **B.E. Computer Engineering** student at Dr. D.Y. Patil Institute of Technology, Pune — **CGPA: 9.45 / 10**
+- 🎓 **B.E. Computer Engineering** graduate from Dr. D.Y. Patil Institute of Technology, Pune — **CGPA: 9.45 / 10**
 - 💼 Former **Python Developer Intern** at Octanet Services Pvt. Ltd.
 - 🤖 Passionate about **ML/AI** — building intelligent, data-driven web applications
 - 🌱 Skilled in **Python, Flask, REST APIs, MongoDB Atlas, and Scikit-learn**
